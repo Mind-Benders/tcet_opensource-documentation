@@ -20,7 +20,7 @@ keywords: [PaLM2, ai, breakthrough, Open ASR, google, speech, stable audio, Gemi
 ---
 
 
-![Mind Benders AI Poster](Poster.png)
+![Mind Benders AI Poster](poster.png)
 
 
 ## The Latest Breakthroughs in AI: A Look at Recent Developments
