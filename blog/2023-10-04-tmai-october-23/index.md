@@ -8,8 +8,8 @@ authors:
     image_url: https://github.com/VrushaliSandam.png
   - name: Arya Mane 
     title: Publication Head - Mind Benders
-    
-     
+    url: https://github.com/AryaMane1210
+    image_url: https://github.com/AryaMane1210.png
   - name: Saurabha Sawant
     title: Open Source Head -  Mind Benders
     url: https://github.com/Saurabha999
