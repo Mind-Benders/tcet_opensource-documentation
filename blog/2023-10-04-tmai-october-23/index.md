@@ -18,6 +18,8 @@ tags: [mind-benders, ai, tmai]
 description: Latest News & Breakthroughs in the Month of October 2023 in AI/ML/DS.
 keywords: [PaLM2, ai, breakthrough, Open ASR, google, speech, stable audio, Gemini, Adobe, virtual, roblox, tmai, microsoft, bard]
 ---
+
+
 ![Mind Benders AI Poster](Poster.png)
 
 
