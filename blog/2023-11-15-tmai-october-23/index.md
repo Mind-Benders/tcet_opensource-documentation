@@ -16,7 +16,7 @@ authors:
     image_url: https://github.com/Saurabha999.png
 tags: [mind-benders, ai, tmai]
 description: Latest News & Breakthroughs in the Month of October 2023 in AI/ML/DS.
-keywords: [PaLM2, ai, breakthrough, Open ASR, google, speech, stable audio, Gemini, Adobe, virtual, roblox, tmai, microsoft, bard]
+keywords: [chatgpt, ai, breakthrough, microsoft, google, speech, stable audio, sturgeon, stable, virtual, adept, tmai, openai, gpt]
 ---
 
 
@@ -32,19 +32,19 @@ OpenAI's ChatGPT has undergone some transformative upgrades, making it a more ca
 
 But that's not all. ChatGPT now possesses the ability to see, hear, and speak. With new voice and image capabilities, users can engage in natural voice conversations and receive relevant responses. Additionally, the image feature enables users to present images to ChatGPT for assistance in interpretation. These additions open up exciting possibilities for interactive and dynamic AI interactions.
 
-ChatGPT can now see, hear, and speak.
+![ChatGPT](gpt.png)
 
 ## 2. Microsoft's Athena: A Game-Changing AI Chip
 
 Microsoft is making waves in the AI hardware arena with the introduction of its own AI chip called Athena. This chip is set to reduce the company's reliance on NVIDIA GPUs and compete head-to-head with NVIDIA's H100 GPU for AI acceleration in data centers. This move showcases Microsoft's commitment to achieving self-sufficiency in AI hardware and driving innovation in the AI space.
 
-Microsoft to Unveil In-House AI Chip, Reducing Reliance on NVIDIA.
+![Microsoft AI Athena](ai_athena.png)
 
 ## 3. Sturgeon: AI in Real-Time Brain Tumor Diagnosis
 
 In the field of healthcare, "Sturgeon" is making waves as an AI model that utilizes nanopore sequencing to swiftly and accurately diagnose brain tumors. This innovation is set to revolutionize medical treatment by mimicking human brain activity and employing algorithms to recognize patterns and provide precise diagnoses within just 40 minutes. This kind of real-time AI application holds tremendous potential for improving patient outcomes and speeding up medical diagnoses.
 
-https://www.nytimes.com/2023/10/11/health/ai-tumor-diagnosis-brain-cancer.html
+![Sturgeon](sturgeon.png)
 
 
 
@@ -52,14 +52,15 @@ https://www.nytimes.com/2023/10/11/health/ai-tumor-diagnosis-brain-cancer.html
 
 In a related move, OpenAI is contemplating the development of its own AI chips for ChatGPT. This strategic consideration stems from a global shortage of processors for training AI models. Such a move could help reduce the exorbitant operating costs of ChatGPT, which currently amount to a staggering $700,000 per day. It's worth noting that OpenAI's decision may differ from Microsoft, their partner, who is also working on their own AI chips.
 
-OpenAI is exploring making its own AI chips. 
+![Openai Logo](openai.png)
 
 
 ## 5. Stable LM 3B: Powering Smart Devices with AI
 
 Stability AI introduces Stable LM 3B, a high-performing language model designed specifically for smart devices. Boasting 3 billion parameters, this model outperforms state-of-the-art 3B models while significantly reducing operating costs and power consumption. The result is an AI model that enables a broader range of applications on smart devices, PCs, and edge computing, paving the way for enhanced user experiences and improved efficiency.
 
-Introducing Stable LM 3B: Bringing Sustainable, High-Performance Language Models to Smart Devices.
+![Stable LM 3B Logo](stable_ai.png)
+
 
 ## 6. Fuyu-8B: A Multimodal Marvel
 
