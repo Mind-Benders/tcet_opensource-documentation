@@ -1,6 +1,6 @@
 ---
-slug: tmai-october-2023
-title: This Month in AI - October 2023
+slug: tmai-September-2023
+title: This Month in AI - September 2023
 authors:
   - name: Vrushali Sandam
     title: Technical Head - Mind Benders 
@@ -15,7 +15,7 @@ authors:
     url: https://github.com/Saurabha999
     image_url: https://github.com/Saurabha999.png
 tags: [mind-benders, ai, tmai]
-description: Latest News & Breakthroughs in the Month of October 2023 in AI/ML/DS.
+description: Latest News & Breakthroughs in the Month of September 2023 in AI/ML/DS.
 keywords: [PaLM2, ai, breakthrough, Open ASR, google, speech, stable audio, Gemini, Adobe, virtual, roblox, tmai, microsoft, bard]
 ---
 
