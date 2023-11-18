@@ -32,7 +32,7 @@ OpenAI's ChatGPT has undergone some transformative upgrades, making it a more ca
 
 But that's not all. ChatGPT now possesses the ability to see, hear, and speak. With new voice and image capabilities, users can engage in natural voice conversations and receive relevant responses. Additionally, the image feature enables users to present images to ChatGPT for assistance in interpretation. These additions open up exciting possibilities for interactive and dynamic AI interactions.
 
-![ChatGPT](gpt.png)
+![ChatGPT](chatgpt.png)
 
 ## 2. Microsoft's Athena: A Game-Changing AI Chip
 
