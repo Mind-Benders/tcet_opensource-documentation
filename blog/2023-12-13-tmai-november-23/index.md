@@ -1,6 +1,6 @@
 ---
-slug: tmai-December-2023
-title: This Month in AI - December 2023
+slug: tmai-November-2023
+title: This Month in AI - November 2023
 authors:
   - name: Vrushali Sandam
     title: Technical Head - Mind Benders 
@@ -15,7 +15,7 @@ authors:
     url: https://github.com/Saurabha999
     image_url: https://github.com/Saurabha999.png
 tags: [mind-benders, ai, tmai]
-description: Latest News & Breakthroughs in the Month of December 2023 in AI/ML/DS.
+description: Latest News & Breakthroughs in the Month of  2023 in AI/ML/DS.
 keywords: [redpajama, ai, breakthrough, grok, google, speech, stable audio, stable video, Adobe, alphafold, anthropic, tmai, microsoft, github, copilot, nvidea]
 ---
 
@@ -78,7 +78,7 @@ In the dynamic landscape of artificial intelligence, November brought forth a wa
    - Elon Musk's Neuralink captures widespread interest as thousands line up for brain chip implants. Approved for human trials, the brain-computer interface aims to empower those with neurological disorders, opening avenues from device control to mind-based communication.
 
 
- ![](neural_link.avif)
+![](neural_link.png)
 
 ## 8. Stable Video Diffusion: Revolutionizing Generative Video [^8]
    - Stability AI introduces Stable Video Diffusion, a potent foundation model for generative video. Publicly accessible on GitHub and Hugging Face, this model has the potential to generate customizable frames at varying frame rates, shaping the future of AI-driven video generation.
