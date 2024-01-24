@@ -1,26 +1,25 @@
 ---
-slug: tmai-September-2023
-title: This Month in AI - September 2023
 authors:
-  - name: Vrushali Sandam
-    title: Technical Head - Mind Benders 
-    url: https://github.com/VrushaliSandam
-    image_url: https://github.com/VrushaliSandam.png
-  - name: Arya Mane 
+  - name: Sharukhali Syed
+    title: President - Mind Benders
+    url: https://github.com/ai-apex-dev
+  - name: Arya Mane
     title: Publication Head - Mind Benders
-    url: https://github.com/AryaMane1210
-    image_url: https://github.com/AryaMane1210.png
   - name: Saurabha Sawant
-    title: Open Source Head -  Mind Benders
-    url: https://github.com/Saurabha999
-    image_url: https://github.com/Saurabha999.png
-tags: [mind-benders, ai, tmai]
-description: Latest News & Breakthroughs in the Month of September 2023 in AI/ML/DS.
-keywords: [PaLM2, ai, breakthrough, Open ASR, google, speech, stable audio, Gemini, Adobe, virtual, roblox, tmai, microsoft, bard]
+    title: Opensource -  Mind Benders
+  - name: Vrushali Sandam
+    title: Technical Head - Mind Benders
+title: This Month in AI - September 2023
+lastmod: "2024-01-24"
+date: "2023-09-18"
+slug: tmai-September-2023
+description: Latest News & Breakthroughs in the Month of September 2023 in AI.
+categories: [Blog]
+tags: [Month in AI]
+image: Poster.png
+aliases: [blog-September-2023]
+
 ---
-
-
-![Mind Benders AI Poster](Poster.png)
 
 
 ## The Latest Breakthroughs in AI: A Look at Recent Developments

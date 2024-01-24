@@ -1,26 +1,26 @@
 ---
-slug: tmai-october-2023
-title: This Month in AI - October 2023
 authors:
-  - name: Vrushali Sandam
-    title: Technical Head - Mind Benders 
-    url: https://github.com/VrushaliSandam
-    image_url: https://github.com/VrushaliSandam.png
-  - name: Arya Mane 
+  - name: Sharukhali Syed
+    title: President - Mind Benders
+    url: https://github.com/ai-apex-dev
+  - name: Arya Mane
     title: Publication Head - Mind Benders
-    url: https://github.com/AryaMane1210
-    image_url: https://github.com/AryaMane1210.png
   - name: Saurabha Sawant
-    title: Open Source Head -  Mind Benders
-    url: https://github.com/Saurabha999
-    image_url: https://github.com/Saurabha999.png
-tags: [mind-benders, ai, tmai]
-description: Latest News & Breakthroughs in the Month of October 2023 in AI/ML/DS.
-keywords: [chatgpt, ai, breakthrough, microsoft, google, speech, stable audio, sturgeon, stable, virtual, adept, tmai, openai, gpt]
+    title: Opensource -  Mind Benders
+  - name: Vrushali Sandam
+    title: Technical Head - Mind Benders
+title: This Month in AI - October 2023
+lastmod: "2024-01-24"
+date: "2023-11-08"
+slug: tmai-October-2023
+description: Latest News & Breakthroughs in the Month of October 2023 in AI.
+categories: [Blog]
+tags: [Month in AI]
+image: Poster.png
+aliases: [blog-October-2023]
+
 ---
 
-
-![Mind Benders AI Poster](Poster.png)
 
 # Exciting AI Developments: October 2023 
 
