@@ -3,28 +3,34 @@ authors:
   - name: Sharukhali Syed
     title: President - Mind Benders
     url: https://github.com/ai-apex-dev
+    image_url: https://github.com/ai-apex-dev.png
   - name: Arya Mane
     title: Publication Head - Mind Benders
+    url: 
+    image_url: 
   - name: Saurabha Sawant
-    title: Opensource -  Mind Benders
+    title: Opensource - Mind Benders
+    url: 
+    image_url: 
   - name: Vrushali Sandam
     title: Technical Head - Mind Benders
+    url: 
+    image_url: 
 title: This Month in AI - January 2024
-lastmod: "2024-01-25"
 date: "2024-01-25"
 slug: tmai-January-2024
 description: Latest News & Breakthroughs in the Month of January 2024 in AI.
-categories: [Blog]
 tags: [Month in AI]
 image: Poster.jpg
 aliases: [blog-January-2024]
-
 ---
 
-
+![Poster](Poster.png)
 
 
 In the fast-paced world of technology, January 2024 unfolds with a myriad of groundbreaking developments. From the rise of AI-generated virtual influencers to legal battles shaping the future of journalism, this month's tech news is marked by innovation, controversy, and a glimpse into the transformative power of artificial intelligence.
+
+<!--truncate-->
 
 ##  Virtual Influencers Redefine Marketing Dynamics Amid Ethical Concerns [^1]
    - AI-created virtual influencers, epitomized by the pink-haired Aitana Lopez, are reshaping the marketing landscape with controlled branding and predictability.

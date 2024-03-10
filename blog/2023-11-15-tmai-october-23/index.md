@@ -3,28 +3,38 @@ authors:
   - name: Sharukhali Syed
     title: President - Mind Benders
     url: https://github.com/ai-apex-dev
+    image_url: https://github.com/ai-apex-dev.png 
   - name: Arya Mane
     title: Publication Head - Mind Benders
+    url: https://github.com/AryaMane1210
+    image_url: https://github.com/AryaMane1210.png
   - name: Saurabha Sawant
-    title: Opensource -  Mind Benders
+    title: Opensource - Mind Benders
+    url: https://github.com/Saurabha999
+    image_url: https://github.com/Saurabha999.png
   - name: Vrushali Sandam
     title: Technical Head - Mind Benders
+    url: https://github.com/VrushaliSandam
+    image_url: https://github.com/VrushaliSandam.png
 title: This Month in AI - October 2023
 lastmod: "2024-01-24"
 date: "2023-11-08"
 slug: tmai-October-2023
 description: Latest News & Breakthroughs in the Month of October 2023 in AI.
-categories: [Blog]
 tags: [Month in AI]
 image: Poster.png
 aliases: [blog-October-2023]
 
 ---
 
+![Poster](Poster.png)
 
-# Exciting AI Developments: October 2023 
+## Exciting AI Developments: October 2023
 
 Artificial intelligence continues to make leaps and bounds, shaping the future in extraordinary ways. October 2023 has been an especially remarkable month for AI, with groundbreaking advancements and innovative solutions emerging from various organizations. In this blog, we'll delve into some of the most noteworthy developments in the world of AI.
+
+<!--truncate-->
+
 
 ## 	ChatGPT: The Multifaceted AI Assistant
 
