@@ -3,31 +3,38 @@ authors:
   - name: Sharukhali Syed
     title: President - Mind Benders
     url: https://github.com/ai-apex-dev
+    image_url: https://github.com/ai-apex-dev.png 
   - name: Arya Mane
     title: Publication Head - Mind Benders
+    url: https://github.com/AryaMane1210
+    image_url: https://github.com/AryaMane1210.png
   - name: Saurabha Sawant
-    title: Opensource -  Mind Benders
+    title: Opensource - Mind Benders
+    url: https://github.com/Saurabha999
+    image_url: https://github.com/Saurabha999.png
   - name: Vrushali Sandam
     title: Technical Head - Mind Benders
+    url: https://github.com/VrushaliSandam
+    image_url: https://github.com/VrushaliSandam.png
 title: This Month in AI - November 2023
-lastmod: "2023-12-13"
-date: "2023-12-13"
+date: "2023-11-08"
 slug: tmai-November-2023
 description: Latest News & Breakthroughs in the Month of November 2023 in AI.
-categories: [Blog]
 tags: [Month in AI]
-image: Poster.jpg
+image: Poster.png
 aliases: [blog-November-2023]
-
 ---
 
+![Poster](Poster.png)
+
+## Exciting AI Developments: November 2023
+
+Artificial intelligence continues to make leaps and bounds, shaping the future in extraordinary ways. November 2023 has been an especially remarkable month for AI, with groundbreaking advancements and innovative solutions emerging from various organizations. In this blog, we'll delve into some of the most noteworthy developments in the world of AI.
+
+<!--truncate-->
 
 
 
-
-# AI Innovations Unveiled: November's Breakthroughs and Investments  
-
-In the dynamic landscape of artificial intelligence, November brought forth a wave of groundbreaking developments and significant investments. Here's a glimpse of the transformative strides made in the AI realm:
 
 ## 	RedPajama-Data-V2 [^1]
  
