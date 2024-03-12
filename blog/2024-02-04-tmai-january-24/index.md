@@ -1,28 +1,25 @@
 ---
+slug: tmai-January-2024
+title: This Month in AI - January 2024
 authors:
   - name: Sharukhali Syed
     title: President - Mind Benders
     url: https://github.com/ai-apex-dev
-    image_url: https://github.com/ai-apex-dev.png
+    image_url: https://github.com/ai-apex-dev.png 
   - name: Arya Mane
     title: Publication Head - Mind Benders
-    url: 
-    image_url: 
+    url: https://github.com/AryaMane1210
+    image_url: https://github.com/AryaMane1210.png
   - name: Saurabha Sawant
     title: Opensource - Mind Benders
-    url: 
-    image_url: 
+    url: https://github.com/Saurabha999
+    image_url: https://github.com/Saurabha999.png
   - name: Vrushali Sandam
     title: Technical Head - Mind Benders
-    url: 
-    image_url: 
-title: This Month in AI - January 2024
-date: "2024-01-25"
-slug: tmai-January-2024
+    url: https://github.com/VrushaliSandam
+    image_url: https://github.com/VrushaliSandam.png
 description: Latest News & Breakthroughs in the Month of January 2024 in AI.
 tags: [Month in AI]
-image: Poster.jpg
-aliases: [blog-January-2024]
 ---
 
 ![Poster](Poster.png)

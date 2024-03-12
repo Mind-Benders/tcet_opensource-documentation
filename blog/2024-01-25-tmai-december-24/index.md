@@ -1,4 +1,6 @@
 ---
+slug: tmai-December-2023
+title: This Month in AI - December 2023
 authors:
   - name: Sharukhali Syed
     title: President - Mind Benders
@@ -16,13 +18,8 @@ authors:
     title: Technical Head - Mind Benders
     url: https://github.com/VrushaliSandam
     image_url: https://github.com/VrushaliSandam.png
-title: This Month in AI - December 2023
-date: "2024-01-25"
-slug: tmai-December-2023
 description: Latest News & Breakthroughs in the Month of December 2023 in AI.
 tags: [Month in AI]
-image: Poster.jpg
-aliases: [blog-December-2023]
 ---
 
 ![Poster](Poster.png)

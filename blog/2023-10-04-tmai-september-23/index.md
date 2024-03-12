@@ -1,4 +1,6 @@
 ---
+slug: tmai-September-2023
+title: This Month in AI - September 2023
 authors:
   - name: Sharukhali Syed
     title: President - Mind Benders
@@ -16,12 +18,8 @@ authors:
     title: Technical Head - Mind Benders
     url: https://github.com/VrushaliSandam
     image_url: https://github.com/VrushaliSandam.png
-title: This Month in AI - September 2023
-date: "2023-09-18"
-slug: tmai-September-2023
 description: Latest News & Breakthroughs in the Month of September 2023 in AI.
 tags: [Month in AI]
-aliases: [blog-September-2023]
 ---
 ![Poster](Poster.png)
 
