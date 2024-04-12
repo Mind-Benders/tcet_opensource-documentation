@@ -20,6 +20,7 @@ authors:
     image_url: https://github.com/VrushaliSandam.png
 description: Latest News & Breakthroughs in the Month of December 2023 in AI.
 tags: [Month in AI]
+keywords: [December 2023, AI, ChatGPT, vulnerability, divergence attack, privacy concerns, OpenAI, GPT Store, marketplace, Pika Labs, Pika 1.0, video generation, AI Alliance, IBM, Meta, collaboration, Elon Musk, X.AI, funding, DeepMind, FunSearch AI, mathematics, Axel Springer, journalism, partnership, Europe, AI regulation, AI Act, legislation, transparency, bias, privacy, surveillance, critical infrastructure, regulatory milestones]
 ---
 
 ![Poster](Poster.png)

@@ -20,7 +20,7 @@ authors:
     image_url: https://github.com/VrushaliSandam.png
 description: Latest News & Breakthroughs in the Month of October 2023 in AI.
 tags: [Month in AI]
-
+keywords: [tmai,AI, October 2023, ChatGPT, OpenAI, web search, robots.txt rules, user agent identification, voice capabilities, image capabilities, Microsoft, Athena, AI chip, NVIDIA GPUs, data centers, Sturgeon, brain tumor diagnosis, healthcare, nanopore sequencing, algorithms, OpenAI chips, operating costs, Stable LM 3B, language model, smart devices, power consumption, Fuyu-8B, multimodal AI, vision-language model, Adept, real-time medical diagnosis, AI hardware, innovation, advancements, industries transformation]
 ---
 
 ![Poster](Poster.png)

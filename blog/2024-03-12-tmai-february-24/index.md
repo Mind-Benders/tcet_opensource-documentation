@@ -20,6 +20,7 @@ authors:
     image_url: https://github.com/VrushaliSandam.png
 description: Latest News & Breakthroughs in the Month of February 2024 in AI.
 tags: [Month in AI]
+keywords: [tmai,Code Llama, Meta, GPT-4, Python-specific, Instruct, Google, Gemini Pro, ChatBot Arena, GPT-4 Turbo, OpenAI, Sora, AI video generator, Stable Cascade, Würstchen architecture, Stability AI, non-commercial license, Yann LeCun, V-JEPA, machine intelligence, Gemma, Nvidia, data center GPU sales, Hopper GPU series, Stable Diffusion 3, language models, video generation, GPU technologies, machine learning paradigms, innovation]
 ---
 
 ![Poster](Poster.png)

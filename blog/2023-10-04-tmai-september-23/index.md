@@ -20,6 +20,7 @@ authors:
     image_url: https://github.com/VrushaliSandam.png
 description: Latest News & Breakthroughs in the Month of September 2023 in AI.
 tags: [Month in AI]
+keywords: [tmai,AI, breakthroughs, speech recognition, Open ASR Leaderboard, Hugging Face, NVIDIA FastConformer, OpenAI Whisper, Stable Audio, Stability AI, music generation, Google, Gemini, language models, The Information, Adobe, Firefly, Creative Cloud, Roblox Assistant, virtual world creation, Microsoft Copilot, personal AI companion, productivity, creativity, Bard Extensions, Google services, integration]
 ---
 ![Poster](Poster.png)
 

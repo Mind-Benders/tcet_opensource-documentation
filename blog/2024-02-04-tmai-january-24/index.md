@@ -20,6 +20,7 @@ authors:
     image_url: https://github.com/VrushaliSandam.png
 description: Latest News & Breakthroughs in the Month of January 2024 in AI.
 tags: [Month in AI]
+keywords: [January 2024, AI, virtual influencers, Aitana Lopez, marketing, ethics, The New York Times, OpenAI, Microsoft, legal battle, copyright infringement, AI Foundation Model Transparency Act, transparency, bias, red teaming, Microsoft, AI button, Copilot chatbot, human-computer interaction, camera technology, Nikon, Sony, Canon, digital signatures, AI fakes, Cristiano Amon, Qualcomm, generative AI, GPT Store, applications, OpenAI, battery technology, Microsoft breakthrough]
 ---
 
 ![Poster](Poster.png)
