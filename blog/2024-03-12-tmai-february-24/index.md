@@ -25,7 +25,7 @@ keywords: [tmai,Code Llama, Meta, GPT-4, Python-specific, Instruct, Google, Gemi
 
 ![Poster](Poster.png)
 
-Unveiling the latest technological marvels, February 2024 stands witness to groundbreaking advancements in artificial intelligence (AI). From Meta's Code Llama to Google's Gemini Pro, the month showcases a flurry of innovations propelling the AI landscape into uncharted territories. Let
+Unveiling the latest technological marvels, February 2024 stands witness to groundbreaking advancements in artificial intelligence (AI). From Meta's Code Llama to Google's Gemini Pro, the month showcases a flurry of innovations propelling the AI landscape into uncharted territories. 
 
 <!--truncate-->
 
