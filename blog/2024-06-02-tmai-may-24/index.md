@@ -18,6 +18,9 @@ authors:
     title: Technical Head - Mind Benders
     url: https://github.com/VrushaliSandam
     image_url: https://github.com/VrushaliSandam.png
+  - name: Joint Technical Head - Mind Benders
+    url:  https://github.com/Shivansupasi
+    image_url: https://github.com/Shivansupasi.png
 description: Latest News & Breakthroughs in the Month of February 2024 in AI.
 tags: [Month in AI]
 keywords: [
