@@ -64,7 +64,7 @@ Under CEO Satya Nadella, Microsoft is aggressively expanding its AI capabilities
 ### Lumalabs Introduces Luma Dream Machine for Video Synthesis[^7]
 Lumalabs has launched the Luma Dream Machine, an AI model designed to create high-quality, realistic videos from text and images. Utilizing a transformer-based method optimized for video content, this tool represents a significant advancement in AI-driven video synthesis.
 
-![Lumalabs](dream_machine.jpg)
+![Lumalabs](dream_machine.png)
 
 ### Enhancing AI Character: Claude 3's Training for Ethical Interaction[^8]
 Anthropic explores "character training" in the Claude 3 model, emphasizing attributes like curiosity and open-mindedness while ensuring harm avoidance. This training strategy aims to align AI behavior with ethical norms, enhancing its interactive capabilities in a flexible and responsible manner.
