@@ -1,0 +1,866 @@
+[33m5f460f7[m[33m ([m[1;36mHEAD -> [m[1;32mblogs[m[33m)[m Merge branch 'blogs' of https://github.com/Saurabha999/tcet_opensource-documentation into blogs
+[33ma6b2855[m Made changes to the Metada, Added Truncate, Poster Visibility fixed and Changed Posters
+[33m9448640[m[33m ([m[1;31morigin/blogs[m[33m)[m Made changes to the Metada, Added Truncate, Poster Visibility fixed and Changed Posters.
+[33mba47248[m Merge branch 'blogs' of https://github.com/Saurabha999/tcet_opensource-documentation into blogs
+[33m6df4a4f[m Merge branch 'main' of https://github.com/Saurabha999/tcet_opensource-documentation into blogs
+[33mf8f0b28[m Merge branch 'Mind-Benders:blogs' into blogs
+[33m4d9e6e7[m Merge branch 'blogs' of https://github.com/Saurabha999/tcet_opensource-documentation into blogs
+[33m97b6eb9[m Removed numbering from January index
+[33m831d86b[m Rename poster.png to Poster.png
+[33m22d7f17[m Added January Blog (2)
+[33m1e0e497[m Added January Blog
+[33m270c25a[m small change in december index numbernumbering
+[33m76afb24[m ADDED DECEMBER BLOG
+[33mf04b138[m  Removed Numbering from Index.md
+[33m05abfb1[m Changed Poster from December to November
+[33mf3c051f[m Changed File type of Image
+[33md80918b[m ADDED december Blog
+[33m5be8101[m Merge pull request #3 from Saurabha999/blogs
+[33m7942909[m Test 1
+[33m0fc45c4[m Changed September Blog Poster Name
+[33m0cf8588[m [FIX]Image file extension fixed
+[33m7421069[m [updated] keywords in october blogs
+[33m6e58ed5[m [FEAT] October Blog
+[33mca200b0[m Updated the Poster
+[33m670dde9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m [RE] commented routing towards incomplete files
+[33mdb3a93f[m Merge pull request #331 from tcet-opensource/document-tcet-linux
+[33mf58a42f[m Merge branch 'main' into document-tcet-linux
+[33m50dcbba[m Merge pull request #330 from tcet-opensource/230-tl-new-installation-step-in-drive
+[33m411e864[m getting started, troubleshoot application, getting started with application
+[33m9964f55[m update yay and contribute TL
+[33m918273e[m update variants and releases 2
+[33m0c906e8[m update variants and releases
+[33m05976c8[m update variants releases
+[33mb9f628c[m update install in drive 3
+[33mb4b9964[m update install in drive 2
+[33m0035906[m removed aur package
+[33m509d681[m removed requirementDownloadVerify
+[33m4801635[m update install in drive
+[33ma06c37b[m added install in drive
+[33m1665200[m Merge pull request #329 from tcet-opensource/242-tl-resources
+[33m3e2a205[m update resources
+[33m65c24ac[m Added Resources
+[33m00f7362[m Merge pull request #326 from tcet-opensource/229-tl-new-req-download-verify
+[33m64969bf[m Update requirements-download-verify 2
+[33m9cda9f6[m Update requirements-download-verify
+[33meb75b27[m Merge pull request #328 from tcet-opensource/232-tl-installation-steps
+[33mfec2c9b[m Added Installation Steps
+[33mc84b262[m Merge pull request #327 from tcet-opensource/231-tl-new-install-in-vm
+[33mcf32ff1[m Update installation-in-vm.md
+[33m524a72a[m Installation in VM
+[33me88c78c[m requirements download verify
+[33mfcc32a4[m Merge pull request #325 from tcet-opensource/236-tl-variants-releases
+[33m30d1eda[m Added variant release info
+[33m9b35312[m Merge pull request #324 from tcet-opensource/243-references-credits
+[33m425a800[m Added info in references and credits
+[33m2096a6d[m Merge pull request #323 from tcet-opensource/234-contribute-linux
+[33m33cc6ee[m added info on contributing to tcet linux
+[33m1ac78c1[m Merge pull request #318 from tcet-opensource/237-tl-troubleshoot-installation-1
+[33m6d0f63f[m added missing points and remove internet requirement for installation
+[33mcb909d7[m troubleshoot-installation
+[33mee9da3f[m Merge pull request #311 from tcet-opensource/240-tl-troubleshoot-application
+[33m77062dc[m Added liitle space in between text
+[33mdf2106e[m Fixed Some spaces in between text
+[33m3eb1bbf[m removed unwanted url and aligned image to center
+[33mb9f80af[m Changed label Application troubleshoot to Application
+[33mb2fee2f[m renamed directory Troubleshoot Application to Application
+[33mcd9d048[m [ADD] Getting Started with Application
+[33mf0b3007[m changed image position and aligned it to center
+[33m15d90ae[m [FIX] Welcome App Name Issue
+[33m5e99e52[m fixed bash in troubleshoot-application.md
+[33m9945bc4[m [FIX] deployment
+[33m2a6c8a4[m added title,description... in troubleshoot-application.md
+[33mae38f59[m changed install-remove-update-package.mdx to install-remove-update-package.md
+[33mc043186[m Merge pull request #305 from tcet-opensource/227-tl-about-tcet-linux
+[33m9109819[m Merge pull request #309 from tcet-opensource/308-tl-yay-install
+[33mb3e152d[m Update about-tcet-linux.md
+[33m547e99c[m Update yay.md
+[33m8645727[m changed yay to YAY
+[33m7b11979[m Renamed and fixed naming
+[33m620f619[m Merge pull request #313 from cryptic-pr03/raman
+[33m338a318[m Merge branch 'main' into raman
+[33mab428d3[m  Changed Name:- September blog to August blog, October blog to September Blog
+[33md3ae79b[m added about tcet-linux to sidebars.js
+[33me3ad194[m Delete .github/FUNDING.yml
+[33m504773f[m Added css property for smooth scrolling
+[33mb75e4ac[m troubleshoot-application
+[33mfc37348[m [UPD] Title and Description of yay-install.md
+[33m94fbfb4[m [FIX] yay-install.md
+[33me57341a[m [ADD] Steps to install packages through aur
+[33m2a9f8ce[m [FIX] sidebar.js
+[33m4564fb5[m [ADD] yay set up
+[33ma9f14e0[m Merge pull request #304 from tcet-opensource/242-tl-resources
+[33ma8141ec[m Merge pull request #303 from tcet-opensource/blogs
+[33m5bc9185[m Merge branch 'main' into blogs
+[33m23c431f[m about tcet linux [updated]
+[33m4b51279[m About TCET Linux
+[33m783dda9[m Merge pull request #299 from tcet-opensource/228-tl-idea-behind-tcet-linux
+[33ma302aec[m Idea Behind TCET linux changes
+[33m7d8c5bb[m Edited images in guides section
+[33m7b48902[m [ADDED]Added Blog on Quantum Computing
+[33m4d6a668[m [ADDED]Added Blog on ML Model
+[33m5c378fd[m Merge pull request #302 from tcet-opensource/blogs
+[33m6aaf97f[m Merge branch 'main' into blogs
+[33m46da179[m [ADDED]Added Blog on AI Automation
+[33me07d8ab[m Merge pull request #301 from tcet-opensource/staging
+[33m84bec9a[m Merge pull request #270 from peichincc/patch-1
+[33m0d1cce1[m Merge pull request #300 from tcet-opensource/main
+[33mf86b610[m Merge pull request #297 from tcet-opensource/241-tl-troubleshoot-welcome-app
+[33m852f67d[m remove <br/>
+[33mabaab81[m Merge branch 'main' into patch-1
+[33m1ef8c94[m [Updated] troubleshoot-welcome-app
+[33m619e7ea[m [Resolved] Type and Mentioned Issue
+[33m1b7c0e8[m Merge pull request #2 from Saurabha999/blogs
+[33m67f6701[m P to p
+[33m76399b9[m Image name fixed
+[33m76b833e[m [IMG Changed] Changed Poster.jpeg to Poster.png
+[33mb7b1284[m Merge branch 'document-tcet-linux' of https://github.com/tcet-opensource/documentation into 242-tl-resources
+[33m38869e7[m [FEAT] September Blog 2023
+[33ma78c2fc[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into document-tcet-linux
+[33m74d030d[m [REDONE] Resolved the issue
+[33me1a2ebb[m [FIX] env and gitignore
+[33mbe07e23[m [FIXED] Resolved blank spae, added github link of an Author
+[33m30930a4[m Merge branch 'main' into patch-1
+[33m06891f7[m Merge pull request #298 from tcet-opensource/blogs
+[33m02500ed[m Merge branch 'main' into blogs
+[33m8f42cc0[m Merge pull request #296 from tcet-opensource/staging
+[33md6896be[m adjust space
+[33m60d4dc5[m rename Documentation Website to TCET Open Source Website
+[33mc9de8fb[m add image of Documentation Website
+[33m3ca7f38[m add space in Ongoing Projects
+[33ma92faef[m Merge branch 'main' into patch-1
+[33ma4115b1[m Idea Behind TCET Linux
+[33m2572157[m Revert "Revert "Merge branch 'main' of https://github.com/tcet-opensource/documentation into 241-tl-troubleshoot-welcome-app""
+[33m2767fae[m Revert "Merge branch 'main' of https://github.com/tcet-opensource/documentation into 241-tl-troubleshoot-welcome-app"
+[33m7c6131e[m Merge branch 'document-tcet-linux' into 241-tl-troubleshoot-welcome-app
+[33mcc24d5d[m Merge branch 'staging' of https://github.com/tcet-opensource/documentation into staging
+[33m6536e7e[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into staging
+[33m5bf4ac7[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 242-tl-resources
+[33m02365fb[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 241-tl-troubleshoot-welcome-app
+[33mb0f7e9d[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into document-tcet-linux
+[33m7934d06[m [FIX] Removed ext contributor from authors
+[33m11b7b7c[m Merge branch 'main' into staging
+[33mfd542b0[m Merge branch 'main' into blogs
+[33md2239ad[m Update FUNDING.yml
+[33mcfb11aa[m Update FUNDING.yml
+[33m1e45c53[m Update FUNDING.yml
+[33m5c35f20[m Delete .github/workflows/FUNDING.yml
+[33m5efc046[m Create FUNDING.yml
+[33mdc5ce85[m ADD BMAC
+[33me65c8c4[m ADD FUNDING
+[33m1519de8[m Merge pull request #295 from Rajdeep1311/main
+[33m9c9b89c[m [Resolved] Type Mistake
+[33mf9fa7e8[m [Added] troubleshoot-welcome-app
+[33mc469d0a[m Fixed TCET Linux image
+[33m1a1401b[m Merge pull request #8 from Rajdeep1311/Rajdeep1311-patch-8
+[33mb9389ab[m Update index.md
+[33m77b70b4[m Merge branch 'main' into patch-1
+[33m6240b80[m Merge pull request #7 from Rajdeep1311/Rajdeep1311-patch-7
+[33m5b4d789[m Update authors.yml
+[33mffb85d5[m alignment images in Ongoing Projects
+[33m90e0c12[m [REMOVED] .env file
+[33m15d6d6e[m [ADDED] Discord Hover
+[33mdab68d0[m Merge pull request #291 from Mahitej28/footer
+[33m189a69b[m Merge pull request #287 from Soorya666/discord-to-footer
+[33m529459f[m Merge pull request #6 from Rajdeep1311/Rajdeep1311-patch-6
+[33m119515b[m Update index.md
+[33md24c5c0[m Merge pull request #5 from Rajdeep1311/Rajdeep1311-patch-5
+[33me04da9b[m Update index.md
+[33m852793c[m Merge branch 'tcet-opensource:main' into main
+[33mdfb4d20[m Merge pull request #4 from Rajdeep1311/Rajdeep1311-patch-4
+[33mbf72665[m Update index.md
+[33mde9dbb2[m Merge pull request #294 from tcet-opensource/main
+[33mc5f32e9[m Merge pull request #293 from tcet-opensource/main
+[33m15f4c68[m Added a thing
+[33m7a18454[m Merge pull request #290 from tcet-opensource/blogs
+[33m7b760e7[m Merge pull request #288 from Rajdeep1311/main
+[33m2b2582e[m Merge pull request #279 from kashish-51/main
+[33m0b9fba6[m Merge branch 'main' into blogs
+[33m60b438f[m Merge pull request #292 from tcet-opensource/staging
+[33mf76db4c[m Merge branch 'main' into staging
+[33m9cb0d60[m [UPDATE] Added hover effect on Social Media icons
+[33mb07dc72[m Merge pull request #277 from Mahitej28/main
+[33m4055d0e[m Revert "[ADDED] Discord Icon to Footer Section"
+[33mac5587a[m [ADDED] Discord Icon to Footer Section
+[33m5248444[m Merge pull request #289 from tcet-opensource/main
+[33m1416945[m Merge pull request #253 from Aisu2635/blog
+[33m38b6e15[m Merge pull request #3 from Rajdeep1311/Rajdeep1311-patch-3
+[33m79143f0[m Update index.md
+[33m0798bbf[m Merge branch 'tcet-opensource:main' into main
+[33mf48b607[m Merge pull request #2 from Rajdeep1311/Rajdeep1311-patch-2
+[33md1fd19d[m Update index.md
+[33mf2169f7[m Merge pull request #1 from Rajdeep1311/Rajdeep1311-patch-1
+[33m4eab573[m Create index.md
+[33m4e81f18[m Blog by Rajdeep Pal
+[33m529b2c3[m Merge branch 'main' into patch-1
+[33maef5193[m fixed reroute to discord's server
+[33me490ec6[m fixed discord routing to icon
+[33m59f3f39[m Fixed link reroute to discord
+[33m3217729[m FIXED prettier spacing
+[33m9eac389[m fixed prettier config
+[33me46f292[m [ADDED] Discord icon to footer
+[33mc0b5c23[m Merge branch 'blogs' into blog
+[33md009a2a[m Merge branch 'tcet-opensource:main' into main
+[33m0664de4[m Merge pull request #266 from Aastha-S-Rai/263-footer-alignment
+[33mbb297e7[m Merge branch 'main' into 263-footer-alignment
+[33m3f2ae74[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into blogs
+[33ma30354f[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into staging
+[33m07e1e31[m Added more branches in workflow
+[33mffa4fc4[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into staging
+[33m5dd74be[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into blogs
+[33m5c47f2f[m Merge branch 'main' into patch-1
+[33m759a6c3[m Removed Netlify configs and fixed workflows
+[33m412211b[m Merge branch 'main' into patch-1
+[33m245b9cd[m Merge branch 'main' into 263-footer-alignment
+[33mfcf52ae[m Merge branch 'main' of https://github.com/tcet-opensource/documentation
+[33m636b378[m My last resort
+[33m2784d87[m Merge pull request #282 from tcet-opensource/main
+[33m0929267[m Merge pull request #281 from tcet-opensource/main
+[33mff0a957[m Merge pull request #276 from tcet-opensource/fix-github-action
+[33mef4919f[m Merge pull request #280 from tcet-opensource/main
+[33mb489363[m fixed TnP img
+[33m40952a1[m Add closing img jsx
+[33mc3447d3[m Merge branch 'main' into patch-1
+[33m008c6f5[m [ADDED] New blog on Web Crawling
+[33m624ecd4[m Merge branch 'main' into main
+[33m5df2df5[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 263-footer-alignment
+[33m4a09a54[m Updated Checkout version in build.yml
+[33m040cf19[m Changed Env from Secrets to Vars
+[33mbe9f852[m fixed the space typo
+[33mf13911f[m test changes
+[33m094bec9[m Merge pull request #272 from tcet-opensource/235-tl-update-getting-started
+[33ma630f25[m Merge pull request #256 from tcet-opensource/238-tl-alias-commands
+[33m60efe20[m Merge pull request #274 from tcet-opensource/main
+[33m926c127[m Merge branch 'blogs' into main
+[33m8a7f23a[m Merge pull request #265 from tcet-opensource/staging
+[33m722302a[m Merge pull request #273 from tcet-opensource/239-tl-system-maintenance
+[33m1ef2023[m Merge branch 'main' of https://github.com/kashish-51/documentation
+[33mdaf54cd[m Update index.md
+[33m2a05844[m [Added] system maintenance
+[33mf7690bb[m [Updated] getting-started.md
+[33m7ad1453[m Merge branch 'tcet-opensource:main' into main
+[33meb28271[m Added blog on Blockchain
+[33mfd2c7a9[m Update about-tcetopensource.mdx
+[33m629f281[m Merge branch 'main' of https://github.com/Aastha-S-Rai/documentation into 263-footer-alignment
+[33mf5734e3[m Fixed grammatical errors
+[33mf324cf6[m Merge pull request #267 from tcet-opensource/linux-blog
+[33md8319cf[m fix spelling mistake
+[33m3bf567c[m update date and add truncate
+[33m291cfc3[m removed unwanted margin right from footer
+[33m27fb18f[m update authors
+[33m34a0f6c[m add final sections
+[33mb2a2cae[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into staging
+[33m98acdb6[m env
+[33m7ecee8b[m Fixed grammatical errors
+[33m333b99c[m Merge pull request #259 from tcet-opensource/257-hideable-sidebar
+[33m06108ba[m [FIXED] Build Error
+[33m7d45ec9[m add blog
+[33m7bb9cd3[m add blog
+[33m02ec0c4[m add images
+[33m58877a3[m Merge branch 'main' into 257-hideable-sidebar
+[33mac92537[m fix metadata content
+[33ma3f136a[m update blog authors
+[33m332e3c9[m [ADD] Social Card
+[33m5e54c15[m remove extra folder
+[33mb1fcb99[m [FIXED] Resolved Merge Conflicts
+[33md2f410f[m [ADDED] Hacktoberfest Website Link
+[33mde1a951[m update about colors
+[33mc96270a[m update colors
+[33m3a1c358[m update hero text
+[33m8ab5919[m [HACKTOBER] replace form with website in config
+[33m4fd85fb[m add hacktoberfest info in readme
+[33m44aaafb[m [ADDED] Hideable Sidebar
+[33m4d1e39f[m Updated index.md as per the vishal's changes
+[33m6286ff9[m Add files via upload
+[33m6850f23[m Delete blog/2023-10-1-cloudgaming/Cloud_gaming_architecture.png
+[33m2b449dd[m Add files via upload
+[33mf0fad6d[m Update index.md
+[33mc6a7f7b[m[33m ([m[1;32mmain[m[33m)[m Merge pull request #255 from tcet-opensource/staging
+[33m0f22252[m [update] typo errors
+[33m85ee883[m [Added] alias-commands
+[33me1d5144[m [FIX] Add env to production.yml
+[33mce9552c[m Update index.md
+[33m57f320f[m Merge pull request #254 from tcet-opensource/Aisu2635-main
+[33meca97c3[m Merge pull request #250 from Aisu2635/main
+[33m0cc5a5a[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into Aisu2635-main
+[33mbe7037b[m minor changes
+[33m39e4c8f[m Update index.md
+[33m07a8039[m Add files via upload
+[33m3315e75[m Create index.md
+[33me830990[m Merge branch 'tcet-opensource:main' into blog
+[33m001479e[m Merge pull request #252 from tcet-opensource/blogs
+[33ma38d805[m image size changed
+[33m1efb39e[m Update authors.yml
+[33m4459501[m [UPDATE] Changed the blog date to reflect on the page
+[33maf68b82[m blog
+[33m267b3db[m [UPDATE] Blog Guidelines
+[33m55ab385[m slight change in readme.md
+[33mf10c875[m hacktober changes
+[33m86364be[m Merge pull request #248 from tcet-opensource/main
+[33m085091a[m Merge pull request #247 from tcet-opensource/doesnots
+[33m5ed428e[m refactoring final
+[33me33f49e[m z index
+[33m87c067d[m Merge branch 'doesnots' of https://github.com/tcet-opensource/documentation into doesnots
+[33m4a5e592[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into doesnots
+[33md5d2281[m navbar
+[33m96c06f9[m Merge branch 'main' into doesnots
+[33m2d4a4ab[m refactoring
+[33mfe03c07[m hero section
+[33m3a074a9[m Merge branch 'staging'
+[33mf76b614[m Merge pull request #244 from tcet-opensource/233-tl-install-remove-update-package
+[33m6c0874c[m json
+[33m5ae3244[m Merge pull request #245 from tcet-opensource/182-183-projectinfo
+[33m0b086e3[m card links
+[33m6b023dd[m [ADDED] Team Links for Teams component
+[33mb85a658[m [UPDATE] Project links in underdevelopment section
+[33m1dc4521[m [UPDATE] Homepage Features
+[33mb367ef1[m [UPDATE] About Organization Component
+[33m39ebdc5[m updated projects and teams info for tos website
+[33m1fcad23[m [Update] install-remove-update-package.mdx
+[33mf89c871[m [Added] install-remove-update-package TL
+[33m6b41a63[m Update about-tcetopensource.mdx
+[33m702b551[m update cocusaurus version
+[33m52fe6bb[m update hacktober info
+[33m546fdec[m [update] sidebar
+[33ma526137[m [update]installation folder name
+[33m80b8816[m [update]sidebar
+[33m4437318[m Merge pull request #224 from tcet-opensource/main
+[33m21778de[m [changes] margins refactored
+[33mc2ae0d6[m Merge branch '215-Background_Gradient_BtnBorder' into staging
+[33m2d932c9[m Merge branch '211-image-size-reduction' into staging
+[33m7f24613[m minor changes
+[33maa5b709[m Merge branch '210-padding-issue' of https://github.com/tcet-opensource/documentation into 210-padding-issue
+[33m42e2412[m [change] width
+[33m379787c[m Increased the width  of Overlaying text box
+[33m4bce970[m Updated Project Overlaying text
+[33m3280fbf[m Added border
+[33m2f5a691[m modified button text color and card gradient
+[33mff18eb4[m Image Size Reduced
+[33mecdf5f2[m padding and width of card modified
+[33md4526b7[m padding and width of card modified
+[33m1912244[m Merge pull request #209 from tcet-opensource/208-fix-url-linux
+[33m3b4e15c[m [CHANGED] Changed description
+[33m5e14b17[m [FIX]Fixed URL issue
+[33mad7cec8[m [SM] Merge pull request #206 from tcet-opensource/205-add-socials-links
+[33m206958b[m [ADD] Added Icons and Hyperlinks in config
+[33mb52cbff[m Merge pull request #203 from tcet-opensource/108_social_card
+[33m5f88eea[m [FIX] Modified config to support read more tags and added posts limitiations on blogs page
+[33m3363405[m Merge pull request #201 from tcet-opensource/document-fmc-website
+[33md4dde32[m Merge pull request #200 from tcet-opensource/141-fmc-mathematical-logic-Calculation
+[33m3e20a5c[m [FIXED] Broken Links
+[33m75be9d2[m [ADD] TEXT
+[33m3783bca[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 141-fmc-mathematical-logic-Calculation
+[33m8d60019[m [CHANGES MADE]
+[33m4362edd[m [DEL] openconf info
+[33mebc53f2[m [ADDED] Some remaining Functions added
+[33m9164a67[m [ADDED] Nearly all components added altogether
+[33mf011e9a[m [IMP] OpenConf 23 announcement
+[33m0981723[m Update CONTRIBUTORS.md
+[33mee27be8[m [ADDED] Sidebar Configuration for FMC Logic
+[33mbe14835[m [MERGED] Synced with main
+[33mb149bf4[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into document-fillmycycle-website
+[33m033d6cb[m Merge pull request #197 from tcet-opensource/document-resume-screener-website
+[33md266038[m [REMOVED] FMC Category
+[33mc128e97[m [FIXED] Broken links
+[33m5cfb3ef[m Update image name in header.mdx
+[33m3b2a19d[m Merge branch 'main' into document-resume-screener-website
+[33mdcb6164[m [ADDED] Hero Component of Resume Screener (#194)
+[33m9ebe4b1[m [ADDED] Header Component of Resume Screener  (#174)
+[33m36b4df3[m Merge pull request #196 from tcet-opensource/blogs
+[33mcf2af24[m [ADD] getting started TL
+[33m54e571d[m Merge pull request #195 from kunalagra/blogs
+[33md3175e4[m June Blog of TMAI by Mind Benders Club
+[33mc51b637[m [Added] ATS Resume Template of Resume Screener (#193)
+[33m0d99d61[m Merge branch 'document-fillmycycle-website' of https://github.com/tcet-opensource/documentation into document-fillmycycle-website
+[33meaad426[m [FIXED] Multiple categories
+[33md36e571[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into document-resume-screener-website
+[33mab54c7b[m [ADDED] Features and Cards of Resume Screener (#192)
+[33m6fd1836[m [DELETED] Repeatitive Item
+[33m4e96273[m [ADDED] Displaying Cycle of Fill My Cycle (#191)
+[33m9d2088c[m [ADDED] Guidelines of Resume Screener (#190)
+[33mae4fcde[m [ADDED] Button & Instructions of Fill My Cycle (#186)
+[33ma3f54a0[m [ADDED] Sidebar Configured for Documentation
+[33md924e47[m Update CONTRIBUTORS.md
+[33m3631465[m [ADDED] TCET Linux Website Documentation (#189)
+[33m7ffde0b[m [ADDED] Tech Stacks of Fill My Cycle (#188)
+[33m2537090[m [ADDED] Tech Stacks of Resume Screener (#187)
+[33m2eea8e1[m [ADDED] Defining Cycles of Fill My Cycle (#184)
+[33m821dc31[m [ADDED] Outro of TNP (#176)
+[33m42a819d[m [MINOR] Formatting and outro changes
+[33m88e5a31[m [MINOR] Links and Formatting
+[33m90c0877[m [ADDED] About Fill My Cycle (#175)
+[33m119c231[m [ADDED] Cycle Result of Fill My Cycle (#166)
+[33ma8f1e2d[m [ADDED] Getting Started of Fill My Cycle (#170)
+[33m6a96d88[m [ADDED] ATS Resume Test-Scan of Resume Screener (#172)
+[33m8cde6ba[m [ADDED] About Resume Screener (#169)
+[33m373230a[m [ADDED] About Us of Resume Screener (#162)
+[33m124028f[m Merge pull request #163 from tcet-opensource/135-fmc-header-help-section
+[33m6fdec02[m [CHANGES] Formatting
+[33ma61aada[m [CHANGES] All Reviews Resolved
+[33me7cded8[m Merge pull request #158 from tcet-opensource/143-rs-getting-started
+[33m85d4529[m Merge pull request #164 from tcet-opensource/152-rs-footer
+[33m294f4b8[m [FIXED] texts
+[33m406c5e4[m [FIXED] Conflicts
+[33mffca321[m Merge branch '152-rs-footer' of https://github.com/tcet-opensource/documentation into 152-rs-footer
+[33m7bd0300[m [CHANGES] Formatting
+[33m2bae2c5[m [Upadated] required changes in rs footer
+[33m2fd8c34[m [Upadated] required changes in rs footer
+[33m10333cf[m Merge branch 'document-resume-screener-website' of https://github.com/tcet-opensource/documentation into 152-rs-footer
+[33m4ea536a[m [ADDED] Outro
+[33m337eecf[m [MODIFIED] RS Getting Started
+[33m29e5225[m Merge branch 'document-resume-screener-website' of https://github.com/tcet-opensource/documentation into 143-rs-getting-started
+[33m3c5b91a[m Revert "[ADDED] Added the doc for about us component"
+[33mf7e9221[m [Upadated] required changes in rs footer
+[33mb43948e[m [ADDED] Images
+[33m77ec9d7[m [added] rs footer
+[33mf93a2cb[m [added] rs footer
+[33m0a67a1f[m [added] rs footer
+[33ma080290[m [ADDED] Header_Help_Section
+[33m51c5ff0[m Revert "[ADDED]added footer rs"
+[33mcb81c89[m Merge branch '152-rs-footer' of https://github.com/tcet-opensource/documentation into 152-rs-footer
+[33m5e13132[m Revert "[ADDED] Added the doc for about us component"
+[33mf0e4111[m Merge branch 'document-resume-screener-website' of https://github.com/tcet-opensource/documentation into 143-rs-getting-started
+[33m056e623[m [ADDED] RS  getting started
+[33md585e26[m Revert "[ADDED]Added-getting-started-for-RS"
+[33m2277b1b[m Revert "Delete ats-resume-template.mdx"
+[33m8a3ea87[m Merge pull request #153 from tcet-opensource/140-fmc-footer-section
+[33m9587cfb[m [UPDATED] Footer in FMC
+[33m34168c9[m [ADDED]added footer rs
+[33mc09f268[m Delete ats-resume-template.mdx
+[33m9a5f5f1[m [ADDED] Added the doc for about us component
+[33mdd0b57a[m [ADDED]Added-getting-started-for-RS
+[33m4e13cf9[m [UPDATED] UPDATED the footer
+[33me65e0e5[m Merge pull request #120 from tcet-opensource/112-Micro-Changes
+[33m77ee465[m changes done
+[33mde8e28d[m Merged with staging
+[33m456fed5[m tailwind preflight disabled
+[33m9b01547[m Merge branch '140-fmc-footer-section' of https://github.com/tcet-opensource/documentation into 140-fmc-footer-section
+[33mde0547e[m Merge branch 'document-fillmycycle-website' of https://github.com/tcet-opensource/documentation into 140-fmc-footer-section
+[33m3f93d09[m [ADDED] Images in assets
+[33mfb3b2ff[m [MERGED] Changes from main
+[33m917275d[m [FIXED] Formatting in 37c143b
+[33m37c143b[m [UPADTE] Upadted footer
+[33md483f8e[m Merge branch 'document-fillmycycle-website' of https://github.com/tcet-opensource/documentation into document-tcet-linux-website
+[33mf695651[m [FIXED] Directory Name Changed
+[33m4a5139d[m [ADDED] Sidebar Configured for Documentation
+[33mecebccc[m [ADDED] Sidebar Configured for Documentation
+[33meb84408[m [ADDED] Sidebar Configured for Documentation
+[33m71c746f[m Merge pull request #123 from tcet-opensource/34-document-tnp-website
+[33m204f4f3[m [FIXED] Broken Link
+[33m3a3110c[m [FIXED] Formatting and images in eff3951
+[33m09a7205[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 34-document-tnp-website
+[33m42a408b[m [FIXED] Missing items and formatting in eff3951
+[33m0c6fb7f[m Merge pull request #122 from tcet-opensource/31-docs-website
+[33meff3951[m added attendence chart component
+[33m4586578[m updated testimonial and outcomes component
+[33m7c2e332[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 31-docs-website
+[33m0e47ce4[m [MAJOR] Website Theme adjusted with logo of org
+[33m06a362d[m Merge pull request #121 from tcet-opensource/103-fix-collapsible-sidebar
+[33mdc4254c[m [remove] join us link
+[33m03bdcd1[m [FIX] collapsible sidebar
+[33mb1d783e[m [made micro changes]
+[33m8646402[m Update CONTRIBUTORS.md
+[33m51a803b[m Merge pull request #118 from tcet-opensource/34-document-tnp-website
+[33maac4194[m [RESTRUCTURED] Restructured files in sidebar and docs
+[33m7cb07de[m [REMOVED] Unnecessary Components Item in Sidebar
+[33m90d10c5[m [REMOVED] Internship Annoucement Removed
+[33m99f8319[m Merge pull request #117 from tcet-opensource/31-docs-website
+[33m808fce9[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 31-docs-website
+[33mfbb420d[m Merge pull request #115 from tcet-opensource/34-document-tnp-website
+[33m41f3e32[m Revert "[TEST] Test Build"
+[33m5e3f5b6[m [TEST] Test Build
+[33med2848f[m [TEST] Test Build
+[33m9fe4f24[m [FIXED] Environment Variables Error
+[33m738bbe3[m [MAJOR] Search Functionality Added #43
+[33m5159a59[m [Updated]Broken Links fixed
+[33m9d4e293[m [Added] Top Placed Students Section added
+[33m7f162df[m Merge pull request #116 from harshau007/main
+[33m8d62eea[m Merge branch 'tcet-opensource:main' into main
+[33m16a086f[m Merge branch '34-document-tnp-website' of https://github.com/tcet-opensource/documentation into 34-document-tnp-website
+[33m7b66bb9[m [Added] Placed Students Section
+[33mc862f84[m [ADDED] Closing sentence in b145c03
+[33ma9d3e53[m [UPDATES] Using Algolia for Search Functionality
+[33mb145c03[m [ADDED] Footer completed
+[33mf96934a[m [CHANGES] Updated some things fom 952f831
+[33m1e45d9f[m Merge branch '34-document-tnp-website' of https://github.com/tcet-opensource/documentation into 34-document-tnp-website
+[33md783375[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 34-document-tnp-website
+[33m952f831[m top recruiters page completed
+[33m50e136c[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 34-document-tnp-website
+[33me9d6d0d[m Update CONTRIBUTORS.md
+[33me9532fa[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 34-document-tnp-website
+[33m9719aba[m [ADDED] Redirection to other component
+[33m51d0fc1[m Merge pull request #105 from tcet-opensource/34-document-tnp-website
+[33m643a76d[m [FIXED] About Us Component Fixed
+[33mc4f5ac1[m Merge branch '34-document-tnp-website' of https://github.com/tcet-opensource/documentation into 34-document-tnp-website
+[33m12a6189[m about us page completed
+[33m91b8a2a[m [FIXED] Code Block in Header.mdx
+[33m0468cc4[m [FIXED] Extensions of .mdx files
+[33m16f59f9[m [UPDATED] Keywords of components
+[33m29d8f05[m [UPDATED] Hero Component
+[33me6e604f[m [UPDATED] Code Blocks and Formatting
+[33m1cb7f4c[m [FIXED] Companies Component
+[33mc74c9f1[m [FIXED] Fixed errors in event page
+[33m50aba01[m completed companies component
+[33me8d25d3[m changes added
+[33mac8a593[m added changes
+[33m70bb976[m swiper changes added
+[33m85269ba[m [ADDED] Hero Component completed
+[33mb5ddf4c[m Merge pull request #113 from Mahitej28/34-document-tnp-website
+[33mb730a0c[m Merge branch 'tcet-opensource:34-document-tnp-website' into 34-document-tnp-website
+[33m20cb80f[m [ADDED] Frontend Tech Stack in TNP Website
+[33mef64e37[m Merge branch '34-document-tnp-website' of https://github.com/tcet-opensource/documentation into 34-document-tnp-website
+[33mf5a40ed[m [Added] Header Section
+[33mb201c27[m [FIXED] Code Block Syntax
+[33m155063c[m Update event-page.md
+[33mf8780fb[m added images
+[33m4e742a8[m [FIXED] Broken Link and directory structure
+[33mc38403f[m [DELETED] Deleted and megred categories
+[33m9ed75bf[m [FIXED] Image Routings
+[33m69ada5a[m Merge branch 'main' into 34-document-tnp-website
+[33m82a33df[m Revert "[MAJOR] Deleted unnecessary files"
+[33ma105cbc[m Merge pull request #111 from tcet-opensource/blogs
+[33m3603344[m [MAJOR] Deleted unnecessary files
+[33m5142364[m [UPDATED] Getting Started of T&P
+[33m01b1e25[m [FIXED] Alignment and Formatting Issues
+[33ma0f3e32[m Added mailto
+[33mc2fdd3a[m [FIXED] T&P Websites files restructured
+[33mc4a51cf[m Fixed build error
+[33mb1885db[m [UPDATED] Sidebar changed acc to reqs
+[33m321e827[m [UPDATED] Getting Started updated
+[33mfed9637[m [ADDED] Getting Started Updated
+[33m21cbc73[m [UPDATED] About T&P updated
+[33mdebf52c[m [ADDED] About T&P updated
+[33mae71b6f[m [ADDED] Placements Component Added
+[33m4bf3e00[m [FIXED] Alignment Issues in codeblocks
+[33mb11d819[m [CHANGES] Code Alignments fixed
+[33m7e171d8[m Major Changes required in Header Component
+[33md73b6af[m [FIXED] Broken links fixed
+[33m6b2e4ee[m [FIXED] Fixed Code Block Syntax Error
+[33mc53cdf8[m [CHANGES] Updated keywords and description
+[33m585c26d[m [ADDED] Training Component and Sections added
+[33m1a42323[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into blogs
+[33m9b4ec55[m [BLOG] Introduction to API Blog Added
+[33m45a4843[m [ADDED] Header component is updated
+[33me403d10[m [CHANGES] Basic Changes Made in TOC
+[33m5ef4f55[m [Updated] Changes in awards and industry interaction components
+[33mecebbd0[m Merge pull request #110 from tcet-opensource/fixation
+[33mf6a7235[m all fixed
+[33ma335c56[m Added IDs
+[33m1564714[m Fixed light-dark mode issues
+[33md1dfaa1[m Fixed nav links and footer
+[33mb0ec0ae[m [ADDED] Image Updated
+[33mbfa5d7e[m Merge pull request #75 from tcet-opensource/60-hero-parallax
+[33mc0c2077[m Merge branch 'staging' of https://github.com/tcet-opensource/documentation into 60-hero-parallax
+[33m3a7edad[m Merge pull request #98 from tcet-opensource/58-custom-navbar-component
+[33m5e6c7b8[m colors fixed
+[33m9606e62[m [Added]Awards and Industry Interaction Page Added
+[33m60dc2f9[m Merge branch '34-document-tnp-website' of https://github.com/tcet-opensource/documentation into 34-document-tnp-website
+[33mcf61a14[m [CHANGES] Updated correct preview commands
+[33me31511f[m Revert "[ADDED] About us component added" This reverts commit de27a29cc3db492e70239ffd1ceb61601946f65c.
+[33m7eded6b[m [ADDED] About us component added
+[33mf4d31a0[m [CHANGES] Added Borders in images and some text fixes
+[33m1b795db[m [UPDATED]Changes in Internship and Testimonials page
+[33m8e32d35[m [UPDATED] Changes in Testimonials Component
+[33m1ee302a[m Testimonials Page Updated
+[33m90f23a2[m Updated internships page
+[33m08d5c51[m Updated Testimonials Page
+[33mad0df55[m [UPDATED] Added Components Items in `sidebar.js`
+[33m5175db8[m setup basic structure for #34
+[33m79a4bf0[m Merge pull request #107 from tcet-opensource/blogs
+[33mb214cb0[m Merge branch 'main' into blogs
+[33m94c88a0[m Merge pull request #109 from tcet-opensource/31-docs-website
+[33mfc6b767[m [CHANGES] Updated correct preview commands
+[33m204bf04[m Revert "[ADDED] About us component added" This reverts commit de27a29cc3db492e70239ffd1ceb61601946f65c.
+[33mde27a29[m [ADDED] About us component added
+[33m91cc6bf[m [CHANGES] Added border in images
+[33md9183fe[m [CHANGES] Added Borders in images and some text fixes
+[33m7d93a51[m [UPDATED]Changes in Internship and Testimonials page
+[33m8ed0b24[m [UPDATED] Changes in Testimonials Component
+[33m31905e3[m Testimonials Page Updated
+[33m6b586dd[m Updated internships page
+[33me7825a4[m Merge pull request #106 from kunalagra/blogs
+[33ma5e3860[m Add: Blog - TMAI May'23 Ed
+[33m6d4e8f6[m Updated Testimonials Page
+[33m99b12e4[m [UPDATED] Added Components Items in `sidebar.js`
+[33mab484e3[m setup basic structure for #34
+[33m61bdf77[m [BLOG] fix alignements in `nidhi`'s blog
+[33mc4083a9[m [UPDATE] first blog slug
+[33m188cbec[m [DEL] placeholder blogs
+[33m33e2a31[m [UPDATE] add announcement bar
+[33m0bc9d8a[m [FIX] list indentation in about page
+[33mcdb8c09[m Merge pull request #101 from tcet-opensource/31-docs-website
+[33m97f6694[m Merge branch 'main' into 31-docs-website
+[33mca31ce4[m [PKG-UPD] docusaurs version
+[33m4a43202[m Merge pull request #100 from tcet-opensource/blogs
+[33m3b4329b[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 31-docs-website
+[33m2389d05[m Merge branch '31-docs-website' of https://github.com/tcet-opensource/documentation into 31-docs-website
+[33m9df0eb3[m [FIXED] Teams Section in dark mode and file extension
+[33m23cbd5e[m Merge branch 'main' into blogs
+[33m01fb56e[m Merge pull request #99 from Nidhi-1223/main
+[33m1120750[m [UPDATE] DevOps Team
+[33m7da9a67[m [BLOG] changes done as mentioned in issue #93
+[33mc89c69a[m Added responsive navbar with hamburger menu
+[33m117c25e[m Merge pull request #95 from tcet-opensource/31-docs-website
+[33m7eab13c[m Merge branch 'main' into 31-docs-website
+[33m26b5159[m Merge pull request #94 from tcet-opensource/update-contributors-patch-1
+[33m883ce3e[m Merge pull request #97 from tcet-opensource/main
+[33mdd27bb6[m [UPDATED] Updated About Organization Page
+[33mdbecb06[m Update CONTRIBUTORS.md
+[33m6e96d1e[m Navbar component ready without responsiveness
+[33m65ec58e[m Merge pull request #92 from tcet-opensource/patch-1-update-readme
+[33m6b8e9f7[m [BLOG] Merge pull request #88 from tcet-opensource/blogs
+[33m4d5d32f[m Added Discord and rearranged embeds
+[33m29f5a55[m Merge branch 'main' into blogs
+[33m4986658[m Added project setup in README.md
+[33mbebc531[m Update README.md
+[33m89b1b12[m [UPDATE] README para 1
+[33m8662878[m [UPDATE] README
+[33m6e3bbc3[m Merge pull request #86 from Nidhi-1223/main
+[33m8f81430[m Merge pull request #87 from tcet-opensource/main
+[33m42a8967[m [AUTHOR] Nidhi Worah Added
+[33m3ff6da6[m Merge branch 'main' of https://github.com/Nidhi-1223/documentation
+[33mfaf0f8b[m [BLOG] Introduction to AI (Part - 1)
+[33m1fa41de[m Merge pull request #81 from tcet-opensource/66-contributors
+[33mae594c5[m [ADD] #66
+[33m2a37765[m Merge pull request #79 from tcet-opensource/64-resources
+[33m8b45032[m [UPDATE] Workflow description in sidebars.js updated
+[33m86ea563[m [FIX] removed comments
+[33m58a17e7[m Deleted redundant folders
+[33m728cc44[m [FIX] Spell checks and formatting
+[33m99b8195[m [FIX] Updated internal and external workflows
+[33m3c92178[m External-workflow-added
+[33mb3ab743[m Merge pull request #78 from tcet-opensource/main
+[33ma02c55d[m Merge pull request #77 from tcet-opensource/blogs
+[33m64f8ed7[m Merge pull request #76 from tcet-opensource/main
+[33me0ce174[m Merge pull request #69 from kunalagra/blogs
+[33mf9c156e[m added parallax effect on hero images
+[33m1f0ae0a[m shift authors to Index.md
+[33m75082a9[m Updated directory structure and sidebars.js
+[33m07c4281[m Update README.md
+[33mf0f94b3[m Updated internal workflow
+[33m33c956c[m Merge pull request #73 from tcet-opensource/main
+[33mc0db638[m Merge branch 'staging' of https://github.com/tcet-opensource/documentation into staging
+[33m4832b26[m [REFACTOR] UnderDevelopmentProject import link resolved
+[33mbf0ae4c[m [BLOG] add mandates for PFP
+[33me6a2d93[m [BLOG] update how to add authors
+[33m574f176[m [PULL] Merge pull request #72 from tcet-opensource/main
+[33m1544a8d[m Update README.md
+[33mcc06984[m added workflow production.yml
+[33m502b711[m Merge pull request #68 from tcet-opensource/31-docs-website
+[33m623195f[m Add April'23 Blog by Mind Benders & add authors
+[33m80915f2[m[33m ([m[1;31morigin/31-docs-website[m[33m)[m [FIXED] Added official discord link in footer
+[33m14b3b4f[m[33m ([m[1;31morigin/staging[m[33m)[m Merge pull request #63 from tcet-opensource/59-footer
+[33m19a8274[m[33m ([m[1;31morigin/59-footer[m[33m)[m Added the proper links to social handles
+[33mf266632[m [UPDATED] Added social media links in footer
+[33m84dcfde[m Merge branch 'main' of https://github.com/tcet-opensource/documentation into 31-docs-website
+[33m12fe970[m [FIX] Made the requested changes in the footer
+[33m78aea15[m Merge pull request #67 from tcet-opensource/main
+[33mf3e0924[m[33m ([m[1;31morigin/64-resources[m[33m)[m add text
+[33m5533ba9[m [UPDATE] about page
+[33mfaefda9[m [UPDATE] about page
+[33mdd649cc[m [UPDATE] tcet-linux docs -> bootloaders & scripts
+[33md6f4045[m [UPDATE] tcet-linux docs + VCS workflow
+[33m95ffcac[m [DEL] file from origin
+[33mf5905f6[m [ADD] iso-profile doc
+[33mf4b50c6[m Revert "[DIR-RESTRUCT] projects/tcet-linux"
+[33m4a0cb6e[m [DIR-RESTRUCT] projects/tcet-linux
+[33m2e329ee[m [DEL] sidebar position in about
+[33m343f052[m remove sidebar position
+[33m15ae3ae[m Update build.yml
+[33mafae052[m Update build.yml
+[33m2385ab3[m Create build.yml
+[33ma46848a[m [UPDATE] Removed `sidebar_position` from files
+[33m9e3b7ef[m [UPDATE] Completed Sidebar and Modified contents in Navbar
+[33m01a0b69[m Update navbar.md
+[33m15be584[m [UPDATED] Sidebar Label of Navbar
+[33m0f2ee68[m [UPDATED] Updated Sidebar and Contents in Docs-Site
+[33mc8264cd[m [MINOR] remove extra space
+[33m1cb8722[m[33m ([m[1;31morigin/32-document-tcet-linux[m[33m)[m [UPDATE] tcet-linux docs -> bootloaders & scripts
+[33md0371b7[m [UPDATE] tcet-linux docs + VCS workflow
+[33m43763e8[m [DEL] file from origin
+[33m6c18464[m [ADD] iso-profile doc
+[33m85fe029[m Revert "[DIR-RESTRUCT] projects/tcet-linux"
+[33md3fc83b[m [DIR-RESTRUCT] projects/tcet-linux
+[33me450bd1[m [DEL] sidebar position in about
+[33me61eac0[m remove sidebar position
+[33m780e95f[m [FEATURE] Built Footer Section solve #59
+[33m02c7fd4[m Merge pull request #56 from tcet-opensource/47-about-section
+[33m9a873cd[m[33m ([m[1;31morigin/47-about-section[m[33m)[m [MINOR] responsive minor changs
+[33m1d02ff5[m [MINOR/MERGE] refactor and minor changes
+[33m9524d9e[m [MINOR] minor fixes
+[33m017b60f[m [FIX] project section minor changes
+[33mfb703c2[m Merge pull request #57 from tcet-opensource/45-project-section
+[33mae9c46f[m[33m ([m[1;31morigin/45-project-section[m[33m)[m [MERGE] with staging
+[33m3c35078[m [FIXES] Pagination redesigned, navigation buttons icon changed, minor changes
+[33mcab773a[m Added about badge, + sign, and aligned left
+[33me5e3025[m [fix] minor fixes
+[33mc07e5bc[m [fix] minor fixes
+[33m1538d9e[m [fix] minor fixes
+[33me787ad1[m [feature] fixes
+[33m171f1a0[m Imported in index.js
+[33m8e4671a[m [FEATURE] Hero, Underdevelopment and Teams merged
+[33m357ef5f[m Merge pull request #54 from tcet-opensource/46-under-development-projects
+[33m1e67f6b[m[33m ([m[1;31morigin/46-under-development-projects[m[33m)[m Merge branch 'staging' into 46-under-development-projects
+[33m74e6160[m Merge pull request #55 from tcet-opensource/48-teams-section
+[33m035ab70[m[33m ([m[1;31morigin/48-teams-section[m[33m)[m Merge branch 'staging' into 48-teams-section
+[33me061704[m Merge pull request #53 from tcet-opensource/44-hero-section
+[33mdab9a78[m [feature] project carosel
+[33m8c004c3[m Made the required changes in the folder structure of the images as suggested
+[33m7e7ccda[m Moved pages to components
+[33m519257b[m[33m ([m[1;31morigin/44-hero-section[m[33m)[m [MINOR] changes
+[33m6dda710[m Made responsive and completed
+[33m927092b[m Saving Progress
+[33m0617dba[m [FEATURE] Done with building the team section
+[33mb11cf37[m [IMPROVE] animation looks cool now
+[33m2998e01[m added button hover animation
+[33mbf1981b[m Partial Animation achieved
+[33m6775a43[m added bg image for hero in tailwind extensions
+[33ma11350e[m added Hero Section Component
+[33m2e981b3[m added static assets for Hero Section
+[33mc761dcd[m Static design implemented
+[33m95fcbbe[m Merge branch 'main' into 31-docs-website
+[33mf9cc679[m Update build.yml
+[33mba738a7[m Saving progress
+[33m48c6258[m Merge branch 'main' into 31-docs-website
+[33m880d264[m Update build.yml
+[33m1a43e44[m Create build.yml
+[33m058ee21[m Made teams card and basic styling
+[33ma39477a[m TAILWIND CONFIGURED
+[33m0e6e77c[m [UPDATE] Merge pull request #49 from tcet-opensource/31-docs-website
+[33m1a3a16f[m [UPDATE] Removed `sidebar_position` from files
+[33m289988d[m [UPDATE] Completed Sidebar and Modified contents in Navbar
+[33m11add92[m Merge pull request #42 from tcet-opensource/31-docs-website
+[33m3b16466[m Update navbar.md
+[33mf928439[m [UPDATED] Sidebar Label of Navbar
+[33m1e525b6[m [UPDATED] Updated Sidebar and Contents in Docs-Site
+[33m45c7302[m Merge branch 'main' into 31-docs-website
+[33m474bebb[m [MINOR] remove extra space
+[33m6503845[m [PULL] Merge pull request #41 from tcet-opensource/main
+[33m445bf47[m Merge branch 'main' into 31-docs-website
+[33md4f1267[m Merge branch 'main' into 31-docs-website
+[33m1c76da5[m Merge pull request #38 from tcet-opensource/31-docs-website
+[33m512d183[m update jayesh blog desc
+[33m85574d4[m [FORMAT] RC Blog
+[33mf07a518[m [UPDATE] Added 'Navbar' Page in Docs Section
+[33m03c93a3[m Update sidebars.js
+[33m14c1e37[m [ADD] update comment text
+[33m7748ae4[m [ADD] profile file directory structure
+[33m8e2746b[m [ADD] tcet-linux-about intro text
+[33m62ca9ed[m [BLOG] Merge pull request #40 from tcet-opensource/blogs
+[33m8559b86[m [BLOG] Merge pull request #39 from JayeshVP24/JayeshVP24-blog
+[33mf9bb7e3[m [UPDATE] 'Navbar' Page added in Docs Section
+[33m5ed6950[m JayeshVP24 blog added
+[33mbb8d42a[m [UPDATE] Updated About Docs page in Docs
+[33mb6392c4[m [PULL] Merge pull request #37 from tcet-opensource/main
+[33m0b271f2[m[33m ([m[1;31morigin/33-document-resume-screener[m[33m)[m [BLOG] Merge pull request #36 from tcet-opensource/blogs
+[33meb0afa9[m [BLOGS] RC Blog
+[33mc28bc83[m [ADD] TCET LINUX file struct
+[33medbe3b3[m RC Blog
+[33md41546d[m [PULL] Merge pull request #29 from tcet-opensource/main
+[33me430c79[m [UPDATE] footer
+[33m07effbc[m [TEMP] showLastUpdateAuthor
+[33mf941701[m [UPDATE] TODO
+[33me52db3a[m [ADD] TODO
+[33m9fc603d[m [UDPATE] minor changes in config
+[33md5bc28a[m [UPDATE] first blog date pre-pone
+[33m58169f4[m [FEATURE] edit this page
+[33m8bd2b52[m [UPDATE] blog plugins
+[33md1997b3[m [FEATURE] hideOnScroll
+[33m56cd5b2[m [UPDATE] add plugins
+[33me2c57e9[m [FIX] Merge pull request #28 from JayeshVP24/patch-1
+[33mc8f9b03[m [FIX] OG Image Meta Tag
+[33m58e8d65[m [UPDATE] social card + links
+[33m84c7a38[m [UPDATE] title
+[33mfe06fb7[m [FIX] import head
+[33m4ed437f[m [UPDATE] description
+[33m8dd3447[m [SEO] Index Page
+[33m4f2777a[m [SEO] blog metadata
+[33m5d3c725[m [SEO] about page metadata
+[33mba19b2f[m [SEO] add global metadata
+[33m9587ef8[m [PULL] Merge pull request #27 from tcet-opensource/main
+[33m173676d[m [FIX] make RC index a backup file
+[33me343e45[m [BACKUP] remove dummy
+[33md7f5f0e[m [BLOG] Merge pull request #24 from tcet-opensource/blogs
+[33mdd6b534[m [PULL] Merge pull request #23 from tcet-opensource/main
+[33m0890b32[m [BLOG] Merge pull request #22 from Mahitej28/blogs
+[33mfe06620[m [BLOG] Intro to ReactJs Blog post added
+[33m75e49f1[m Merge pull request #21 from tcet-opensource/experiment
+[33m926f76b[m [NIKITA] add dummy blog
+[33m1c3f46b[m updated about tcet open source
+[33m2ffa05f[m [PULL] Merge pull request #20 from tcet-opensource/main
+[33m5b993d1[m [BLOG] Merge pull request #19 from tcet-opensource/blogs
+[33m27cbb54[m Cloud Computing blog post added
+[33md77fe6b[m Merge pull request #17 from tcet-opensource/blogs
+[33m288b359[m Added General Posting Guidelines blog post
+[33mfccddb3[m Pull sidebar from tcet-opensource/main
+[33m8ab0670[m Pull sidebar and blog from tcet-opensource/main
+[33mb6de5d2[m [FIX] intro doc id changed from "intro" to "about-tcetopensource"
+[33me799608[m [FEATURE] dynamic and modular sidebar
+[33mb37b91e[m [DUMMY] add about doc
+[33m795b9f8[m Merge pull request #14 from tcet-opensource/blogs
+[33mc8270b8[m Added Breaking the Ice - Open Source blogpost
+[33m6d927a7[m [TEST] add text
+[33m69762ea[m Merge pull request #13 from tcet-opensource/experiment
+[33m0f11a13[m Update URL
+[33mec69b65[m Merge pull request #12 from tcet-opensource/main
+[33mbaf9814[m Revert "Merge branch 'experiment'"
+[33m05c1d84[m Merge pull request #10 from tcet-opensource/main
+[33me625bdf[m Merge branch 'experiment'
+[33mbf82884[m Merge pull request #11 from tcet-opensource/main
+[33medc6dd1[m Revert "update URL"
+[33mce496ac[m update URL
+[33mb2c23d2[m [TEMP_FIX]: intro doc id reverted
+[33m0bdaa4d[m getting started document
+[33m1109f50[m add blog changes
+[33m0cc741f[m Renamed index.md
+[33ma6ef157[m Merge pull request #9 from tcet-opensource/main
+[33m36a8066[m remove img
+[33m1d96f37[m dummy blog text
+[33m7e20578[m update date in intro blog
+[33m3f3e307[m add saasha again
+[33m14900fb[m add saasha
+[33maa0e30d[m sanitize blogs
+[33m87ae08b[m Revert "renamed intro.md"
+[33m01c8553[m Revert "update id"
+[33m3324be3[m renamed intro.md
+[33m73a8c71[m update id
+[33mc15a1ea[m push dummy info
+[33mda0b23b[m remove demo docs
+[33mf764b23[m intro heading
+[33mc233fb6[m add title to intro
+[33m41b22d7[m update index text
+[33meb8f751[m update title
+[33mdb2a661[m update description
+[33me5c0682[m update project url
+[33m2aebabb[m update config header
+[33m430903d[m go back
+[33m2949d8a[m bring back changes
+[33m164431d[m remove docusaurus dummy content
+[33mc5a40a0[m update config base url
+[33mf0c6f10[m update colors
+[33m05cb909[m udpate headers in config
+[33m2c143d3[m update logos in config
+[33m52599bb[m add project logo
+[33md0de546[m add tos links in config
+[33m7299f9b[m fix favicon issue
+[33m7652c30[m add reading emoji
+[33m8570135[m add base files
+[33m2380027[m add license
+[33m753d43d[m Revert "update title in config"
+[33me2304d5[m Revert "update title in config"
+[33m77243d3[m update title in config
+[33m65ae870[m fix typo
+[33m5f4be3c[m fix silly error
+[33mefefa3b[m update index title
+[33m767b1b9[m update URL
+[33m5354552[m update org info in config
+[33md00e403[m add project files
+[33m19528ff[m add static files
+[33mde67f3c[m add base source file
+[33m49e5221[m add sample blog
+[33mb7be009[m add sample docs
+[33m1abf979[m add stock config
+[33m571aae5[m add stock sidebar
+[33m272ea82[m add gitignore
+[33m1cd313f[m Create README.md
+[33m198b605[m Initial commit
